@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/user.iml" filepath="$PROJECT_DIR$/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/user.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/user.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/braintreepayment/user.braintreepayment.iml" filepath="$PROJECT_DIR$/.idea/modules/braintreepayment/user.braintreepayment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativechekoutpaypal/user.nativechekoutpaypal.iml" filepath="$PROJECT_DIR$/.idea/modules/nativechekoutpaypal/user.nativechekoutpaypal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stripepayment/user.stripepayment.iml" filepath="$PROJECT_DIR$/.idea/modules/stripepayment/user.stripepayment.iml" />
+    </modules>
+  </component>
+</project>
